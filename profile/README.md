@@ -25,7 +25,7 @@ This organization contains the following repositories:
 * **`LLM_agent`:**
     * Contains the backend server code, including the Graph-RAG pipeline, LLM agent logic, and knowledge graph integration.
     * [See here](https://github.com/MyMemoryChat/LLM_agent)
-* **`[client-repository-name]`:**
+* **`Client`:**
     * Contains the frontend client application, providing the user interface for chat interaction.
     * [See here](https://github.com/MyMemoryChat/Client)
 
