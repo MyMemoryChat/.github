@@ -1,6 +1,6 @@
 # MyMemoryChat - Intelligent Data Chat System
 
-Welcome to the MyMemoryChat GitHub organization! This repository houses the React client and Python server components for our advanced data chat system, powered by Graph Retrieval-Augmented Generation (Graph-RAG) and Large Language Model (LLM) agents.
+Welcome to the MyMemoryChat GitHub organization! This repository houses the React client and Python server components for this advanced data chat system, powered by Graph Retrieval-Augmented Generation (Graph-RAG) and Large Language Model (LLM) agents.
 
 ## Overview
 
@@ -11,7 +11,7 @@ This project provides a client-server architecture for a sophisticated chat appl
 * **Persistent Knowledge Graph:** Stores data into a Neo4j graph knowledge.
 * **Interactive Chat Interface:** Offers a user-friendly experience for querying and interacting with data using the client.
 
-Our system is designed to:
+This system is designed to:
 
 * Provide accurate, contextually relevant and positive responses.
 * Automate data retrieval and updating tasks.
